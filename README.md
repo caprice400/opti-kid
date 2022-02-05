@@ -6,4 +6,6 @@ first game with Gamemaker Studio 2, for a class project.
 
 music produced by github.com/robfatland
 
-and yes, you're supposed to hit the boats
+
+
+those boats are looking awfully hittable...
